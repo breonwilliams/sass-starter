@@ -1,0 +1,8 @@
+# Ignore the node_modules
+node_modules
+
+# Ignore parcel's cache folder
+.cache
+
+# Ignore DS_Store
+.DS_Store

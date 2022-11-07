@@ -1,0 +1,17 @@
+{
+    "/js/main.js": "/js/main.js",
+    "/css/index.css": "/css/index.css",
+    "/images/hamburger-icon-collapse.svg": "/images/hamburger-icon-collapse.svg",
+    "/images/hamburger-icon.svg": "/images/hamburger-icon.svg",
+    "/images/header-logo-mobile.svg": "/images/header-logo-mobile.svg",
+    "/images/header-logo.svg": "/images/header-logo.svg",
+    "/images/search-icon-collapse.svg": "/images/search-icon-collapse.svg",
+    "/images/search-icon-hover.svg": "/images/search-icon-hover.svg",
+    "/images/search-icon-mobile.svg": "/images/search-icon-mobile.svg",
+    "/images/search-icon.svg": "/images/search-icon.svg",
+    "/images/submit-arrow.svg": "/images/submit-arrow.svg",
+    "/images/user-icon-hover.svg": "/images/user-icon-hover.svg",
+    "/images/user-icon.svg": "/images/user-icon.svg",
+    "/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf": "/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf",
+    "/fonts/OpenSans-VariableFont_wdth,wght.ttf": "/fonts/OpenSans-VariableFont_wdth,wght.ttf"
+}
